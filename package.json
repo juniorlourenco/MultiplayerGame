@@ -1,0 +1,30 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorminaj/game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorminaj/game/issues"
+  },
+  "homepage": "https://github.com/juniorminaj/game#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.14.1",
+    "nodemon": "^2.0.2",
+    "socket.io": "^2.3.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2"
+  }
+}
